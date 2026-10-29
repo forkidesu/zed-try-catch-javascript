@@ -1,0 +1,14 @@
+{
+  "Try Catch": {
+    "prefix": "trycatch",
+    "body": [
+      "try{",
+      "\t$1",
+      "}",
+      "catch(error){",
+      "\t$0",
+      "}"
+    ],
+    "description": "Insert a try/catch block"
+  }
+}

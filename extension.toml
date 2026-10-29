@@ -1,0 +1,8 @@
+id = "try-catch-javascript"
+name = "Try Catch JavaScript"
+version = "0.0.1"
+schema_version = 1
+authors = ["forkidesu"]
+description = "A JavaScript try/catch snippet triggered by trycatch."
+repository = "https://github.com/forkidesu/try-catch-javascript"
+snippets = ["./snippets/javascript.json"]
